@@ -1,1 +1,1 @@
-# iran-sanctioned-domain
+# ir-sanctioned-domain
